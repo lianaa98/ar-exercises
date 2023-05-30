@@ -27,5 +27,3 @@ end
 for store in @womens_stores_less_than_one_mil
   puts "#{store.name}, #{store.annual_revenue}"
 end
-
-
